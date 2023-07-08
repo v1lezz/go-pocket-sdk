@@ -1,4 +1,4 @@
-module go-pocket-sdk
+module github.com/v1lezz/go-pocket-sdk
 
 go 1.20
 
